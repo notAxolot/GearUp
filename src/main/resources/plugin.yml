@@ -1,0 +1,4 @@
+name: GearUp
+version: '${project.version}'
+main: birdcorporation.gearup.GearUp
+api-version: '1.16'
